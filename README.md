@@ -1,4 +1,4 @@
-# interview_preparations
+# frontend interview_preparations
 
 [SOLID:](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)</br>
 [Scrum:](https://www.scrum.org/resources/what-is-scrum)</br>
