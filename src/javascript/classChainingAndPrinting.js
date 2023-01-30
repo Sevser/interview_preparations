@@ -10,7 +10,7 @@ function printStructure will print to console this text, I mean exact formatting
 
 `
 {
-  name:  { type: 'text' }
+  name:  { type: 'text' },
   isActive:  { type: 'boolean' }
 }
 `
