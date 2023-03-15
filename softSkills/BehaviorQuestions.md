@@ -1,0 +1,22 @@
+Allows this interviewer to assess how you will react to situations in the future based on your reactions and behaviors to similar situations in the past.
+
+- Tell me about a time when you were faced with a challenging situation. How did you solve it?
+- Do you usually set goals at work? If yes, could you give me an example of a goal you had and how you achieved it?
+- Give me an example of a time you made a mistake at work.
+- Have you ever faced conflict with a coworker? How did you resolve the situation?
+- Tell me about a time when you handled the pressure well.
+- Was there a time when you had to be very strategic in order to meet a goal?
+- Give me an example of a situation when you showed initiative and took charge of a situation.
+- Tell me about a time when you went above and beyond your duties for a job or task.
+- Did you ever have to correct one of your superiors when they were wrong? How did you approach that situation?
+- Have you ever had to work under a tight deadline?
+- How do you deal with coworkers that don’t cooperate or can’t contribute enough?
+- Tell me about a time when a client was asking for the impossible. How did you explain and communicate this to them?
+- Give me an example of a time when you didn’t meet a client’s expectations. How did you deal with the situation?
+- Is there a situation you think you could’ve handled better or differently?
+- How do you adapt to sudden changes in the workplace? Could you give me an example?
+- What was the first job you ever had? Do you remember how you adapted and learned the ropes?
+- Tell me about a time when you had to think on your feet in order to deal with a situation.
+- Sometimes employers put too much on their employees’ plates. Was there a time when you were overwhelmed with work? How did you handle the situation?
+- Tell me about a time when you had the liberty to be creative with your work. Was it exciting or difficult for you?
+- Give me an example of a time when you and your team had opposing views on an issue. How did you persuade them to go with your decision?
