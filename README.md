@@ -60,6 +60,7 @@
 [event-loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)</br>
 [event-loop](https://www.youtube.com/watch?v=u1kqx6AenYw)</br>
 [microtasks](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)</br>
+[http1 / http1.1 / http2](https://cheapsslsecurity.com/p/http2-vs-http1/)</br>
 
 [vuejs](https://habr.com/ru/company/constanta/blog/435700/)</br>
 
