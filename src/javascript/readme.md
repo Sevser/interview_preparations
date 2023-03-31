@@ -6,11 +6,10 @@
 Promise и фунция внутри промисов, вызывается синхронно
 MutationObserver
 callStack exceed
-http1 / http1.1 / http2 разница
+разница
 заголовки http, базовые
 способы сжатия данных внутри http запроса (gzip и ?)
 browser object model
 процесс налаживания соединения websocket
 сборщик мусора
 движок v8 и его особенности
-
