@@ -1,6 +1,6 @@
 # frontend interview preparations
 
-[SOLID:](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)</br>
+[SOLID:](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design) [fr:](https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design-fr)</br>
 [Scrum:](https://www.scrum.org/resources/what-is-scrum)</br>
 [Scrum:](https://ru.wikipedia.org/wiki/SCRUM)</br>
 [Agile:](https://www.guru99.com/agile-scrum-extreme-testing.html)</br>
